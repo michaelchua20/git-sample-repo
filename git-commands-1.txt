@@ -1,9 +1,8 @@
-git status -> added new comments
-git init
-git config --global user.name "michaelchua"
-git config --global user.email mikechua_20@yahoo.com
-git config user.name "michaelchua"
-git config user.email mikechua_20@yahoo.com
+git status -> prints the status of the Git Repository
+git config --global user.name "michaelchua20"
+git config --global user.email michael.bien.chua@gmail.com
+git config user.name "michaelchua20"
+git config user.email michael.bien.chua@gmail.com
 git add
 git commit -m ""
 git log
