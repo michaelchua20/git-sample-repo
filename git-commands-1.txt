@@ -7,9 +7,9 @@ git config user.email michael.bien.chua@gmail.com
 git add
 git commit -m ""
 git log
-git diff <filename>
+git diff 
+
+-------------------------------------------------
+Private Branch 2 Features Update
 
 
--------------------------------------------------------------
-
-Updated version Private Branch 1
